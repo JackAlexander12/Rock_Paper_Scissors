@@ -98,7 +98,6 @@ while True:
         user_wins_array.append("l")
         tie.append("l")
         computer_wins += 1
-
 print("You won", user_wins, "times")
 print("Computer won", computer_wins, "times")
 if computer_wins > user_wins:
